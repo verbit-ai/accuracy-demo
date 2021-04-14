@@ -24,6 +24,7 @@ commands:
         description: Deploy bucket for client static assets
         type: string
     steps:
+      - checkout
       - run:
           name: build assets and deploy to s3 bucket
           command: |
