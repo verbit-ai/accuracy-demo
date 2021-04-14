@@ -2,6 +2,6 @@
 A demo tool for marketing purposes, meant to showcase different services abilities vs Verbit
 
 ## Installation:
-Clone the repository.
-Run npm install / Yarn.
-Run npm start
+1. Clone the repository.
+2. Run npm install
+3. Run npm start
