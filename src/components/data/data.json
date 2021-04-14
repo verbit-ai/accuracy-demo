@@ -1,0 +1,3125 @@
+[
+  {
+    "name": "Verbit 2nd Gen",
+    "key": 1,
+    "text": [
+      {
+        "time": "0.500",
+        "endTime": "1",
+        "word": "Okay,"
+      },
+      {
+        "time": "2.100",
+        "endTime": "2.600",
+        "word": "actually"
+      },
+      {
+        "time": "2.600",
+        "endTime": "2.800",
+        "word": "good"
+      },
+      {
+        "time": "2.800",
+        "endTime": "3.500",
+        "word": "question"
+      },
+      {
+        "time": "4",
+        "endTime": "4.700",
+        "word": "because"
+      },
+      {
+        "time": "5",
+        "endTime": "5.800",
+        "word": "remember"
+      },
+      {
+        "time": "6.800",
+        "endTime": "7",
+        "word": "the"
+      },
+      {
+        "time": "7",
+        "endTime": "7.700",
+        "word": "direction"
+      },
+      {
+        "time": "7.700",
+        "endTime": "8.100",
+        "word": "that"
+      },
+      {
+        "time": "8.200",
+        "endTime": "8.400",
+        "word": "the"
+      },
+      {
+        "time": "8.400",
+        "endTime": "8.900",
+        "word": "passive"
+      },
+      {
+        "time": "8.900",
+        "endTime": "9.200",
+        "word": "sign"
+      },
+      {
+        "time": "9.200",
+        "endTime": "9.900",
+        "word": "convention"
+      },
+      {
+        "time": "9.900",
+        "endTime": "10.300",
+        "word": "that"
+      },
+      {
+        "time": "10.300",
+        "endTime": "10.800",
+        "word": "we"
+      },
+      {
+        "time": "11",
+        "endTime": "11.600",
+        "word": "had"
+      },
+      {
+        "time": "12.300",
+        "endTime": "12.400",
+        "word": "the"
+      },
+      {
+        "time": "12.400",
+        "endTime": "13",
+        "word": "direction"
+      },
+      {
+        "time": "13",
+        "endTime": "13.200",
+        "word": "that"
+      },
+      {
+        "time": "13.200",
+        "endTime": "13.400",
+        "word": "the"
+      },
+      {
+        "time": "13.400",
+        "endTime": "13.900",
+        "word": "current"
+      },
+      {
+        "time": "13.900",
+        "endTime": "14.100",
+        "word": "in",
+        "mistake": true
+      },
+      {
+        "time": "14.100",
+        "endTime": "14.800",
+        "word": "tears.",
+        "mistake": true
+      },
+      {
+        "time": "15.600",
+        "endTime": "15.700",
+        "word": "We"
+      },
+      {
+        "time": "15.700",
+        "endTime": "16.300",
+        "word": "consider"
+      },
+      {
+        "time": "16.300",
+        "endTime": "17.100",
+        "word": "positive."
+      },
+      {
+        "time": "17.400",
+        "endTime": "17.900",
+        "word": "Yeah."
+      },
+      {
+        "time": "18.200",
+        "endTime": "18.500",
+        "word": "Also,"
+      },
+      {
+        "time": "18.500",
+        "endTime": "18.600",
+        "word": "I"
+      },
+      {
+        "time": "18.600",
+        "endTime": "18.800",
+        "word": "meant"
+      },
+      {
+        "time": "18.800",
+        "endTime": "19.100",
+        "word": "the"
+      },
+      {
+        "time": "19.700",
+        "endTime": "20.900",
+        "word": "0.51."
+      },
+      {
+        "time": "22.100",
+        "endTime": "22.200",
+        "word": "The"
+      },
+      {
+        "time": "22.200",
+        "endTime": "22.300",
+        "word": "one"
+      },
+      {
+        "time": "22.300",
+        "endTime": "22.400",
+        "word": "on"
+      },
+      {
+        "time": "22.400",
+        "endTime": "22.500",
+        "word": "the"
+      },
+      {
+        "time": "22.500",
+        "endTime": "23.200",
+        "word": "right?"
+      },
+      {
+        "time": "23.300",
+        "endTime": "23.700",
+        "word": "Yeah,"
+      },
+      {
+        "time": "23.700",
+        "endTime": "24.100",
+        "word": "but"
+      },
+      {
+        "time": "24.100",
+        "endTime": "24.400",
+        "word": "let's"
+      },
+      {
+        "time": "24.400",
+        "endTime": "24.600",
+        "word": "look"
+      },
+      {
+        "time": "24.600",
+        "endTime": "24.800",
+        "word": "at"
+      },
+      {
+        "time": "24.800",
+        "endTime": "25.200",
+        "word": "that."
+      },
+      {
+        "time": "25.500",
+        "endTime": "25.600",
+        "word": "So"
+      },
+      {
+        "time": "25.600",
+        "endTime": "25.900",
+        "word": "this"
+      },
+      {
+        "time": "25.900",
+        "endTime": "26.100",
+        "word": "is"
+      },
+      {
+        "time": "26.100",
+        "endTime": "27.200",
+        "word": "positive."
+      },
+      {
+        "time": "27.300",
+        "endTime": "27.600",
+        "word": "So"
+      },
+      {
+        "time": "27.600",
+        "endTime": "28.100",
+        "word": "now"
+      },
+      {
+        "time": "28.100",
+        "endTime": "28.400",
+        "word": "if"
+      },
+      {
+        "time": "28.400",
+        "endTime": "28.500",
+        "word": "I"
+      },
+      {
+        "time": "28.500",
+        "endTime": "28.800",
+        "word": "if"
+      },
+      {
+        "time": "28.800",
+        "endTime": "29.100",
+        "word": "I"
+      },
+      {
+        "time": "29.100",
+        "endTime": "29.400",
+        "word": "if"
+      },
+      {
+        "time": "29.400",
+        "endTime": "29.500",
+        "word": "I"
+      },
+      {
+        "time": "29.500",
+        "endTime": "29.700",
+        "word": "go"
+      },
+      {
+        "time": "29.700",
+        "endTime": "30",
+        "word": "with"
+      },
+      {
+        "time": "30",
+        "endTime": "30.200",
+        "word": "this"
+      },
+      {
+        "time": "30.200",
+        "endTime": "30.900",
+        "word": "direction"
+      },
+      {
+        "time": "30.900",
+        "endTime": "31.100",
+        "word": "that"
+      },
+      {
+        "time": "31.100",
+        "endTime": "31.400",
+        "word": "means"
+      },
+      {
+        "time": "31.400",
+        "endTime": "31.600",
+        "word": "this"
+      },
+      {
+        "time": "31.600",
+        "endTime": "31.800",
+        "word": "is"
+      },
+      {
+        "time": "31.800",
+        "endTime": "32.600",
+        "word": "positive."
+      },
+      {
+        "time": "33.300",
+        "endTime": "33.600",
+        "word": "This"
+      },
+      {
+        "time": "33.600",
+        "endTime": "33.700",
+        "word": "is"
+      },
+      {
+        "time": "33.700",
+        "endTime": "34.300",
+        "word": "negative."
+      },
+      {
+        "time": "36.100",
+        "endTime": "36.600",
+        "word": "Yeah,"
+      },
+      {
+        "time": "38.300",
+        "endTime": "38.600",
+        "word": "so"
+      },
+      {
+        "time": "38.600",
+        "endTime": "38.700",
+        "word": "we"
+      },
+      {
+        "time": "38.700",
+        "endTime": "39",
+        "word": "get"
+      },
+      {
+        "time": "39",
+        "endTime": "39.600",
+        "word": "what?"
+      },
+      {
+        "time": "40.100",
+        "endTime": "40.800",
+        "word": "Okay."
+      },
+      {
+        "time": "40.800",
+        "endTime": "41",
+        "word": "Yeah,"
+      },
+      {
+        "time": "41",
+        "endTime": "41.100",
+        "word": "I"
+      },
+      {
+        "time": "41.100",
+        "endTime": "41.300",
+        "word": "see"
+      },
+      {
+        "time": "41.300",
+        "endTime": "41.600",
+        "word": "it."
+      },
+      {
+        "time": "42.300",
+        "endTime": "42.700",
+        "word": "Yeah"
+      },
+      {
+        "time": "42.800",
+        "endTime": "43",
+        "word": "get"
+      },
+      {
+        "time": "43",
+        "endTime": "43.800",
+        "word": "thrust"
+      },
+      {
+        "time": "43.800",
+        "endTime": "43.900",
+        "word": "is"
+      },
+      {
+        "time": "44.500",
+        "endTime": "44.800",
+        "word": "using",
+        "mistake": true
+      },
+      {
+        "time": "44.800",
+        "endTime": "44.900",
+        "word": "of"
+      },
+      {
+        "time": "44.900",
+        "endTime": "45.100",
+        "word": "like"
+      },
+      {
+        "time": "45.100",
+        "endTime": "45.300",
+        "word": "no",
+        "mistake": true
+      },
+      {
+        "time": "45.300",
+        "endTime": "45.500",
+        "word": "do",
+        "mistake": true
+      },
+      {
+        "time": "45.500",
+        "endTime": "45.600",
+        "word": "for"
+      },
+      {
+        "time": "45.600",
+        "endTime": "45.900",
+        "word": "some"
+      },
+      {
+        "time": "45.900",
+        "endTime": "46.300",
+        "word": "reason."
+      },
+      {
+        "time": "46.900",
+        "endTime": "47.300",
+        "word": "Yeah."
+      },
+      {
+        "time": "48.400",
+        "endTime": "49",
+        "word": "So"
+      },
+      {
+        "time": "49.300",
+        "endTime": "49.500",
+        "word": "so"
+      },
+      {
+        "time": "49.500",
+        "endTime": "49.900",
+        "word": "I"
+      },
+      {
+        "time": "49.900",
+        "endTime": "50.100",
+        "word": "think"
+      },
+      {
+        "time": "50.100",
+        "endTime": "50.600",
+        "word": "it"
+      },
+      {
+        "time": "50.600",
+        "endTime": "50.800",
+        "word": "is"
+      },
+      {
+        "time": "50.800",
+        "endTime": "51",
+        "word": "just"
+      },
+      {
+        "time": "51",
+        "endTime": "51.200",
+        "word": "we"
+      },
+      {
+        "time": "51.200",
+        "endTime": "51.400",
+        "word": "can"
+      },
+      {
+        "time": "51.400",
+        "endTime": "51.500",
+        "word": "go"
+      },
+      {
+        "time": "51.500",
+        "endTime": "51.800",
+        "word": "just"
+      },
+      {
+        "time": "51.800",
+        "endTime": "52.100",
+        "word": "by"
+      },
+      {
+        "time": "52.100",
+        "endTime": "52.600",
+        "word": "this"
+      },
+      {
+        "time": "52.700",
+        "endTime": "53.400",
+        "word": "direction."
+      },
+      {
+        "time": "54.800",
+        "endTime": "55.100",
+        "word": "If"
+      },
+      {
+        "time": "55.100",
+        "endTime": "55.200",
+        "word": "you"
+      },
+      {
+        "time": "55.200",
+        "endTime": "55.800",
+        "word": "reverse"
+      },
+      {
+        "time": "55.800",
+        "endTime": "56.500",
+        "word": "this"
+      },
+      {
+        "time": "57",
+        "endTime": "57.200",
+        "word": "you"
+      },
+      {
+        "time": "57.200",
+        "endTime": "57.800",
+        "word": "can"
+      },
+      {
+        "time": "58",
+        "endTime": "58.200",
+        "word": "then"
+      },
+      {
+        "time": "58.200",
+        "endTime": "58.300",
+        "word": "you"
+      },
+      {
+        "time": "58.300",
+        "endTime": "58.500",
+        "word": "have"
+      },
+      {
+        "time": "58.500",
+        "endTime": "58.700",
+        "word": "to"
+      },
+      {
+        "time": "58.700",
+        "endTime": "59.300",
+        "word": "consider"
+      },
+      {
+        "time": "59.300",
+        "endTime": "59.600",
+        "word": "that"
+      },
+      {
+        "time": "59.600",
+        "endTime": "60.200",
+        "word": "direction"
+      },
+      {
+        "time": "60.200",
+        "endTime": "61.100",
+        "word": "positive"
+      },
+      {
+        "time": "61.400",
+        "endTime": "61.700",
+        "word": "this"
+      },
+      {
+        "time": "61.700",
+        "endTime": "61.900",
+        "word": "one."
+      },
+      {
+        "time": "61.700",
+        "endTime": "61.900",
+        "word": "?",
+        "mistake": true
+      },
+      {
+        "time": "61.900",
+        "endTime": "62.300",
+        "word": "Yeah."
+      }
+    ]
+  },
+  {
+    "name": "Verbit Adaptive",
+    "key": 2,
+    "text": [
+      {
+        "time": "0.500",
+        "endTime": "1",
+        "word": "Okay,"
+      },
+      {
+        "time": "2.100",
+        "endTime": "2.600",
+        "word": "actually"
+      },
+      {
+        "time": "2.600",
+        "endTime": "2.800",
+        "word": "good"
+      },
+      {
+        "time": "2.800",
+        "endTime": "3.500",
+        "word": "question"
+      },
+      {
+        "time": "4",
+        "endTime": "4.700",
+        "word": "because"
+      },
+      {
+        "time": "5",
+        "endTime": "5.800",
+        "word": "remember"
+      },
+      {
+        "time": "6.800",
+        "endTime": "7",
+        "word": "the"
+      },
+      {
+        "time": "7",
+        "endTime": "7.700",
+        "word": "direction"
+      },
+      {
+        "time": "7.700",
+        "endTime": "8.100",
+        "word": "that"
+      },
+      {
+        "time": "8.200",
+        "endTime": "8.400",
+        "word": "the"
+      },
+      {
+        "time": "8.400",
+        "endTime": "8.900",
+        "word": "passive"
+      },
+      {
+        "time": "8.900",
+        "endTime": "9.200",
+        "word": "sign"
+      },
+      {
+        "time": "9.200",
+        "endTime": "9.900",
+        "word": "convention"
+      },
+      {
+        "time": "9.900",
+        "endTime": "10.300",
+        "word": "that"
+      },
+      {
+        "time": "10.300",
+        "endTime": "10.800",
+        "word": "we"
+      },
+      {
+        "time": "11",
+        "endTime": "11.600",
+        "word": "had"
+      },
+      {
+        "time": "12.300",
+        "endTime": "12.400",
+        "word": "the"
+      },
+      {
+        "time": "12.400",
+        "endTime": "13",
+        "word": "direction"
+      },
+      {
+        "time": "13",
+        "endTime": "13.200",
+        "word": "that"
+      },
+      {
+        "time": "13.200",
+        "endTime": "13.400",
+        "word": "the"
+      },
+      {
+        "time": "13.400",
+        "endTime": "13.900",
+        "word": "current"
+      },
+      {
+        "time": "13.900",
+        "endTime": "14.100",
+        "word": "in",
+        "mistake": true
+      },
+      {
+        "time": "14.100",
+        "endTime": "14.800",
+        "word": "tears.",
+        "mistake": true
+      },
+      {
+        "time": "15.600",
+        "endTime": "15.700",
+        "word": "We"
+      },
+      {
+        "time": "15.700",
+        "endTime": "16.300",
+        "word": "consider"
+      },
+      {
+        "time": "16.300",
+        "endTime": "17.100",
+        "word": "positive."
+      },
+      {
+        "time": "17.400",
+        "endTime": "17.900",
+        "word": "Yeah."
+      },
+      {
+        "time": "18.200",
+        "endTime": "18.500",
+        "word": "Also,"
+      },
+      {
+        "time": "18.500",
+        "endTime": "18.600",
+        "word": "I"
+      },
+      {
+        "time": "18.600",
+        "endTime": "18.800",
+        "word": "meant"
+      },
+      {
+        "time": "18.800",
+        "endTime": "19.100",
+        "word": "the"
+      },
+      {
+        "time": "19.700",
+        "endTime": "20.900",
+        "word": "0.51.",
+        "mistake": true
+      },
+      {
+        "time": "22.100",
+        "endTime": "22.200",
+        "word": "The"
+      },
+      {
+        "time": "22.200",
+        "endTime": "22.300",
+        "word": "one"
+      },
+      {
+        "time": "22.300",
+        "endTime": "22.400",
+        "word": "on"
+      },
+      {
+        "time": "22.400",
+        "endTime": "22.500",
+        "word": "the"
+      },
+      {
+        "time": "22.500",
+        "endTime": "23.200",
+        "word": "right?"
+      },
+      {
+        "time": "23.300",
+        "endTime": "23.700",
+        "word": "Yeah,"
+      },
+      {
+        "time": "23.700",
+        "endTime": "24.100",
+        "word": "but"
+      },
+      {
+        "time": "24.100",
+        "endTime": "24.400",
+        "word": "let's"
+      },
+      {
+        "time": "24.400",
+        "endTime": "24.600",
+        "word": "look"
+      },
+      {
+        "time": "24.600",
+        "endTime": "24.800",
+        "word": "at"
+      },
+      {
+        "time": "24.800",
+        "endTime": "25.200",
+        "word": "that."
+      },
+      {
+        "time": "25.500",
+        "endTime": "25.600",
+        "word": "So"
+      },
+      {
+        "time": "25.600",
+        "endTime": "25.900",
+        "word": "this"
+      },
+      {
+        "time": "25.900",
+        "endTime": "26.100",
+        "word": "is"
+      },
+      {
+        "time": "26.100",
+        "endTime": "27.200",
+        "word": "positive."
+      },
+      {
+        "time": "27.300",
+        "endTime": "27.600",
+        "word": "So"
+      },
+      {
+        "time": "27.600",
+        "endTime": "28.100",
+        "word": "now"
+      },
+      {
+        "time": "28.100",
+        "endTime": "28.400",
+        "word": "if"
+      },
+      {
+        "time": "28.400",
+        "endTime": "28.500",
+        "word": "I"
+      },
+      {
+        "time": "28.500",
+        "endTime": "28.800",
+        "word": "if"
+      },
+      {
+        "time": "28.800",
+        "endTime": "29.100",
+        "word": "I"
+      },
+      {
+        "time": "29.100",
+        "endTime": "29.400",
+        "word": "if"
+      },
+      {
+        "time": "29.400",
+        "endTime": "29.500",
+        "word": "I"
+      },
+      {
+        "time": "29.500",
+        "endTime": "29.700",
+        "word": "go"
+      },
+      {
+        "time": "29.700",
+        "endTime": "30",
+        "word": "with"
+      },
+      {
+        "time": "30",
+        "endTime": "30.200",
+        "word": "this"
+      },
+      {
+        "time": "30.200",
+        "endTime": "30.900",
+        "word": "direction"
+      },
+      {
+        "time": "30.900",
+        "endTime": "31.100",
+        "word": "that"
+      },
+      {
+        "time": "31.100",
+        "endTime": "31.400",
+        "word": "means"
+      },
+      {
+        "time": "31.400",
+        "endTime": "31.600",
+        "word": "this"
+      },
+      {
+        "time": "31.600",
+        "endTime": "31.800",
+        "word": "is"
+      },
+      {
+        "time": "31.800",
+        "endTime": "32.600",
+        "word": "positive."
+      },
+      {
+        "time": "33.300",
+        "endTime": "33.600",
+        "word": "This"
+      },
+      {
+        "time": "33.600",
+        "endTime": "33.700",
+        "word": "is"
+      },
+      {
+        "time": "33.700",
+        "endTime": "34.300",
+        "word": "negative."
+      },
+      {
+        "time": "36.100",
+        "endTime": "36.600",
+        "word": "Yeah,"
+      },
+      {
+        "time": "38.300",
+        "endTime": "38.600",
+        "word": "so"
+      },
+      {
+        "time": "38.600",
+        "endTime": "38.700",
+        "word": "we"
+      },
+      {
+        "time": "38.700",
+        "endTime": "39",
+        "word": "get"
+      },
+      {
+        "time": "39",
+        "endTime": "39.600",
+        "word": "what?"
+      },
+      {
+        "time": "40.100",
+        "endTime": "40.800",
+        "word": "Okay."
+      },
+      {
+        "time": "40.800",
+        "endTime": "41",
+        "word": "Yeah,"
+      },
+      {
+        "time": "41",
+        "endTime": "41.100",
+        "word": "I"
+      },
+      {
+        "time": "41.100",
+        "endTime": "41.300",
+        "word": "see"
+      },
+      {
+        "time": "41.300",
+        "endTime": "41.600",
+        "word": "it."
+      },
+      {
+        "time": "42.300",
+        "endTime": "42.700",
+        "word": "Yeah"
+      },
+      {
+        "time": "42.800",
+        "endTime": "43",
+        "word": "get"
+      },
+      {
+        "time": "43",
+        "endTime": "43.800",
+        "word": "thrust",
+        "mistake": true
+      },
+      {
+        "time": "43.800",
+        "endTime": "43.900",
+        "word": "is",
+        "mistake": true
+      },
+      {
+        "time": "44.500",
+        "endTime": "44.800",
+        "word": "using",
+        "mistake": true
+      },
+      {
+        "time": "44.800",
+        "endTime": "44.900",
+        "word": "of"
+      },
+      {
+        "time": "44.900",
+        "endTime": "45.100",
+        "word": "like"
+      },
+      {
+        "time": "45.100",
+        "endTime": "45.300",
+        "word": "no",
+        "mistake": true
+      },
+      {
+        "time": "45.300",
+        "endTime": "45.500",
+        "word": "do",
+        "mistake": true
+      },
+      {
+        "time": "45.500",
+        "endTime": "45.600",
+        "word": "for"
+      },
+      {
+        "time": "45.600",
+        "endTime": "45.900",
+        "word": "some"
+      },
+      {
+        "time": "45.900",
+        "endTime": "46.300",
+        "word": "reason."
+      },
+      {
+        "time": "46.900",
+        "endTime": "47.300",
+        "word": "Yeah."
+      },
+      {
+        "time": "48.400",
+        "endTime": "49",
+        "word": "So"
+      },
+      {
+        "time": "49.300",
+        "endTime": "49.500",
+        "word": "so"
+      },
+      {
+        "time": "49.500",
+        "endTime": "49.900",
+        "word": "I"
+      },
+      {
+        "time": "49.900",
+        "endTime": "50.100",
+        "word": "think"
+      },
+      {
+        "time": "50.100",
+        "endTime": "50.600",
+        "word": "it"
+      },
+      {
+        "time": "50.600",
+        "endTime": "50.800",
+        "word": "is"
+      },
+      {
+        "time": "50.800",
+        "endTime": "51",
+        "word": "just"
+      },
+      {
+        "time": "51",
+        "endTime": "51.200",
+        "word": "we"
+      },
+      {
+        "time": "51.200",
+        "endTime": "51.400",
+        "word": "can"
+      },
+      {
+        "time": "51.400",
+        "endTime": "51.500",
+        "word": "go"
+      },
+      {
+        "time": "51.500",
+        "endTime": "51.800",
+        "word": "just"
+      },
+      {
+        "time": "51.800",
+        "endTime": "52.100",
+        "word": "by"
+      },
+      {
+        "time": "52.100",
+        "endTime": "52.600",
+        "word": "this"
+      },
+      {
+        "time": "52.700",
+        "endTime": "53.400",
+        "word": "direction."
+      },
+      {
+        "time": "54.800",
+        "endTime": "55.100",
+        "word": "If"
+      },
+      {
+        "time": "55.100",
+        "endTime": "55.200",
+        "word": "you"
+      },
+      {
+        "time": "55.200",
+        "endTime": "55.800",
+        "word": "reverse"
+      },
+      {
+        "time": "55.800",
+        "endTime": "56.500",
+        "word": "this"
+      },
+      {
+        "time": "57",
+        "endTime": "57.200",
+        "word": "you"
+      },
+      {
+        "time": "57.200",
+        "endTime": "57.800",
+        "word": "can"
+      },
+      {
+        "time": "58",
+        "endTime": "58.200",
+        "word": "then"
+      },
+      {
+        "time": "58.200",
+        "endTime": "58.300",
+        "word": "you"
+      },
+      {
+        "time": "58.300",
+        "endTime": "58.500",
+        "word": "have"
+      },
+      {
+        "time": "58.500",
+        "endTime": "58.700",
+        "word": "to"
+      },
+      {
+        "time": "58.700",
+        "endTime": "59.300",
+        "word": "consider"
+      },
+      {
+        "time": "59.300",
+        "endTime": "59.600",
+        "word": "that"
+      },
+      {
+        "time": "59.600",
+        "endTime": "60.200",
+        "word": "direction"
+      },
+      {
+        "time": "60.200",
+        "endTime": "61.100",
+        "word": "positive"
+      },
+      {
+        "time": "61.400",
+        "endTime": "61.700",
+        "word": "this"
+      },
+      {
+        "time": "61.700",
+        "endTime": "61.900",
+        "word": "one."
+      },
+      {
+        "time": "61.700",
+        "endTime": "61.900",
+        "word": "?",
+        "mistake": true
+      },
+      {
+        "time": "61.900",
+        "endTime": "62.300",
+        "word": "Yeah."
+      }
+    ]
+  },
+  {
+    "name": "Google",
+    "key": 3,
+    "text": [
+      {
+        "time": "0.500",
+        "endTime": "1",
+        "word": "Okay,"
+      },
+      {
+        "time": "2.100",
+        "endTime": "2.600",
+        "word": "actually"
+      },
+      {
+        "time": "2.600",
+        "endTime": "2.800",
+        "word": "good"
+      },
+      {
+        "time": "2.800",
+        "endTime": "3.500",
+        "word": "question"
+      },
+      {
+        "time": "4",
+        "endTime": "4.700",
+        "word": "because"
+      },
+      {
+        "time": "5",
+        "endTime": "5.800",
+        "word": "remember"
+      },
+      {
+        "time": "6.800",
+        "endTime": "7",
+        "word": "the"
+      },
+      {
+        "time": "7",
+        "endTime": "7.700",
+        "word": "direction"
+      },
+      {
+        "time": "7.700",
+        "endTime": "8.100",
+        "word": "that"
+      },
+      {
+        "time": "8.200",
+        "endTime": "8.400",
+        "word": "the"
+      },
+      {
+        "time": "8.400",
+        "endTime": "8.900",
+        "word": "passive"
+      },
+      {
+        "time": "8.900",
+        "endTime": "9.200",
+        "word": "sign"
+      },
+      {
+        "time": "9.200",
+        "endTime": "9.900",
+        "word": "convention"
+      },
+      {
+        "time": "9.900",
+        "endTime": "10.300",
+        "word": "that"
+      },
+      {
+        "time": "10.300",
+        "endTime": "10.800",
+        "word": "we"
+      },
+      {
+        "time": "11",
+        "endTime": "11.600",
+        "word": "had"
+      },
+      {
+        "time": "12.300",
+        "endTime": "12.400",
+        "word": "the"
+      },
+      {
+        "time": "12.400",
+        "endTime": "13",
+        "word": "direction"
+      },
+      {
+        "time": "13",
+        "endTime": "13.200",
+        "word": "that"
+      },
+      {
+        "time": "13.200",
+        "endTime": "13.400",
+        "word": "the"
+      },
+      {
+        "time": "13.400",
+        "endTime": "13.900",
+        "word": "current"
+      },
+      {
+        "time": "13.900",
+        "endTime": "14.100",
+        "word": "in",
+        "mistake": true
+      },
+      {
+        "time": "14.100",
+        "endTime": "14.800",
+        "word": "tears.",
+        "mistake": true
+      },
+      {
+        "time": "15.600",
+        "endTime": "15.700",
+        "word": "We"
+      },
+      {
+        "time": "15.700",
+        "endTime": "16.300",
+        "word": "consider"
+      },
+      {
+        "time": "16.300",
+        "endTime": "17.100",
+        "word": "positive."
+      },
+      {
+        "time": "17.400",
+        "endTime": "17.900",
+        "word": "Yeah."
+      },
+      {
+        "time": "18.200",
+        "endTime": "18.500",
+        "word": "Also,"
+      },
+      {
+        "time": "18.500",
+        "endTime": "18.600",
+        "word": "I"
+      },
+      {
+        "time": "18.600",
+        "endTime": "18.800",
+        "word": "meant"
+      },
+      {
+        "time": "18.800",
+        "endTime": "19.100",
+        "word": "the"
+      },
+      {
+        "time": "19.700",
+        "endTime": "20.900",
+        "word": "0.51.",
+        "mistake": true
+      },
+      {
+        "time": "22.100",
+        "endTime": "22.200",
+        "word": "The"
+      },
+      {
+        "time": "22.200",
+        "endTime": "22.300",
+        "word": "one"
+      },
+      {
+        "time": "22.300",
+        "endTime": "22.400",
+        "word": "on"
+      },
+      {
+        "time": "22.400",
+        "endTime": "22.500",
+        "word": "the"
+      },
+      {
+        "time": "22.500",
+        "endTime": "23.200",
+        "word": "right?"
+      },
+      {
+        "time": "23.300",
+        "endTime": "23.700",
+        "word": "Yeah,"
+      },
+      {
+        "time": "23.700",
+        "endTime": "24.100",
+        "word": "but"
+      },
+      {
+        "time": "24.100",
+        "endTime": "24.400",
+        "word": "let's"
+      },
+      {
+        "time": "24.400",
+        "endTime": "24.600",
+        "word": "look"
+      },
+      {
+        "time": "24.600",
+        "endTime": "24.800",
+        "word": "at"
+      },
+      {
+        "time": "24.800",
+        "endTime": "25.200",
+        "word": "that."
+      },
+      {
+        "time": "25.500",
+        "endTime": "25.600",
+        "word": "So"
+      },
+      {
+        "time": "25.600",
+        "endTime": "25.900",
+        "word": "this"
+      },
+      {
+        "time": "25.900",
+        "endTime": "26.100",
+        "word": "is"
+      },
+      {
+        "time": "26.100",
+        "endTime": "27.200",
+        "word": "positive."
+      },
+      {
+        "time": "27.300",
+        "endTime": "27.600",
+        "word": "So"
+      },
+      {
+        "time": "27.600",
+        "endTime": "28.100",
+        "word": "now"
+      },
+      {
+        "time": "28.100",
+        "endTime": "28.400",
+        "word": "if"
+      },
+      {
+        "time": "28.400",
+        "endTime": "28.500",
+        "word": "I"
+      },
+      {
+        "time": "28.500",
+        "endTime": "28.800",
+        "word": "if"
+      },
+      {
+        "time": "28.800",
+        "endTime": "29.100",
+        "word": "I"
+      },
+      {
+        "time": "29.100",
+        "endTime": "29.400",
+        "word": "if"
+      },
+      {
+        "time": "29.400",
+        "endTime": "29.500",
+        "word": "I"
+      },
+      {
+        "time": "29.500",
+        "endTime": "29.700",
+        "word": "go"
+      },
+      {
+        "time": "29.700",
+        "endTime": "30",
+        "word": "with"
+      },
+      {
+        "time": "30",
+        "endTime": "30.200",
+        "word": "this"
+      },
+      {
+        "time": "30.200",
+        "endTime": "30.900",
+        "word": "direction"
+      },
+      {
+        "time": "30.900",
+        "endTime": "31.100",
+        "word": "that"
+      },
+      {
+        "time": "31.100",
+        "endTime": "31.400",
+        "word": "means"
+      },
+      {
+        "time": "31.400",
+        "endTime": "31.600",
+        "word": "this"
+      },
+      {
+        "time": "31.600",
+        "endTime": "31.800",
+        "word": "is"
+      },
+      {
+        "time": "31.800",
+        "endTime": "32.600",
+        "word": "positive."
+      },
+      {
+        "time": "33.300",
+        "endTime": "33.600",
+        "word": "This"
+      },
+      {
+        "time": "33.600",
+        "endTime": "33.700",
+        "word": "is"
+      },
+      {
+        "time": "33.700",
+        "endTime": "34.300",
+        "word": "negative."
+      },
+      {
+        "time": "36.100",
+        "endTime": "36.600",
+        "word": "Yeah,"
+      },
+      {
+        "time": "38.300",
+        "endTime": "38.600",
+        "word": "so"
+      },
+      {
+        "time": "38.600",
+        "endTime": "38.700",
+        "word": "we"
+      },
+      {
+        "time": "38.700",
+        "endTime": "39",
+        "word": "get"
+      },
+      {
+        "time": "39",
+        "endTime": "39.600",
+        "word": "what?"
+      },
+      {
+        "time": "40.100",
+        "endTime": "40.800",
+        "word": "Okay."
+      },
+      {
+        "time": "40.800",
+        "endTime": "41",
+        "word": "Yeah,"
+      },
+      {
+        "time": "41",
+        "endTime": "41.100",
+        "word": "I"
+      },
+      {
+        "time": "41.100",
+        "endTime": "41.300",
+        "word": "see"
+      },
+      {
+        "time": "41.300",
+        "endTime": "41.600",
+        "word": "it."
+      },
+      {
+        "time": "42.300",
+        "endTime": "42.700",
+        "word": "Yeah"
+      },
+      {
+        "time": "42.800",
+        "endTime": "43",
+        "word": "get"
+      },
+      {
+        "time": "43",
+        "endTime": "43.800",
+        "word": "thrust",
+        "mistake": true
+      },
+      {
+        "time": "43.800",
+        "endTime": "43.900",
+        "word": "is",
+        "mistake": true
+      },
+      {
+        "time": "44.500",
+        "endTime": "44.800",
+        "word": "using",
+        "mistake": true
+      },
+      {
+        "time": "44.800",
+        "endTime": "44.900",
+        "word": "of"
+      },
+      {
+        "time": "44.900",
+        "endTime": "45.100",
+        "word": "like"
+      },
+      {
+        "time": "45.100",
+        "endTime": "45.300",
+        "word": "no",
+        "mistake": true
+      },
+      {
+        "time": "45.300",
+        "endTime": "45.500",
+        "word": "do",
+        "mistake": true
+      },
+      {
+        "time": "45.500",
+        "endTime": "45.600",
+        "word": "for"
+      },
+      {
+        "time": "45.600",
+        "endTime": "45.900",
+        "word": "some"
+      },
+      {
+        "time": "45.900",
+        "endTime": "46.300",
+        "word": "reason."
+      },
+      {
+        "time": "46.900",
+        "endTime": "47.300",
+        "word": "Yeah."
+      },
+      {
+        "time": "48.400",
+        "endTime": "49",
+        "word": "So"
+      },
+      {
+        "time": "49.300",
+        "endTime": "49.500",
+        "word": "so"
+      },
+      {
+        "time": "49.500",
+        "endTime": "49.900",
+        "word": "I"
+      },
+      {
+        "time": "49.900",
+        "endTime": "50.100",
+        "word": "think"
+      },
+      {
+        "time": "50.100",
+        "endTime": "50.600",
+        "word": "it"
+      },
+      {
+        "time": "50.600",
+        "endTime": "50.800",
+        "word": "is"
+      },
+      {
+        "time": "50.800",
+        "endTime": "51",
+        "word": "just"
+      },
+      {
+        "time": "51",
+        "endTime": "51.200",
+        "word": "we"
+      },
+      {
+        "time": "51.200",
+        "endTime": "51.400",
+        "word": "can",
+        "mistake": true
+      },
+      {
+        "time": "51.400",
+        "endTime": "51.500",
+        "word": "go"
+      },
+      {
+        "time": "51.500",
+        "endTime": "51.800",
+        "word": "just"
+      },
+      {
+        "time": "51.800",
+        "endTime": "52.100",
+        "word": "by"
+      },
+      {
+        "time": "52.100",
+        "endTime": "52.600",
+        "word": "this"
+      },
+      {
+        "time": "52.700",
+        "endTime": "53.400",
+        "word": "direction."
+      },
+      {
+        "time": "54.800",
+        "endTime": "55.100",
+        "word": "If"
+      },
+      {
+        "time": "55.100",
+        "endTime": "55.200",
+        "word": "you"
+      },
+      {
+        "time": "55.200",
+        "endTime": "55.800",
+        "word": "reverse"
+      },
+      {
+        "time": "55.800",
+        "endTime": "56.500",
+        "word": "this"
+      },
+      {
+        "time": "57",
+        "endTime": "57.200",
+        "word": "you"
+      },
+      {
+        "time": "57.200",
+        "endTime": "57.800",
+        "word": "can"
+      },
+      {
+        "time": "58",
+        "endTime": "58.200",
+        "word": "then"
+      },
+      {
+        "time": "58.200",
+        "endTime": "58.300",
+        "word": "you"
+      },
+      {
+        "time": "58.300",
+        "endTime": "58.500",
+        "word": "have"
+      },
+      {
+        "time": "58.500",
+        "endTime": "58.700",
+        "word": "to"
+      },
+      {
+        "time": "58.700",
+        "endTime": "59.300",
+        "word": "consider"
+      },
+      {
+        "time": "59.300",
+        "endTime": "59.600",
+        "word": "that"
+      },
+      {
+        "time": "59.600",
+        "endTime": "60.200",
+        "word": "direction"
+      },
+      {
+        "time": "60.200",
+        "endTime": "61.100",
+        "word": "positive"
+      },
+      {
+        "time": "61.400",
+        "endTime": "61.700",
+        "word": "this"
+      },
+      {
+        "time": "61.700",
+        "endTime": "61.900",
+        "word": "one."
+      },
+      {
+        "time": "61.700",
+        "endTime": "61.900",
+        "word": "?",
+        "mistake": true
+      },
+      {
+        "time": "61.900",
+        "endTime": "62.300",
+        "word": "Yeah."
+      }
+    ]
+  },
+  {
+    "name": "Otter",
+    "key": 4,
+    "text": [
+      {
+        "time": "0.500",
+        "endTime": "1",
+        "word": "Okay,"
+      },
+      {
+        "time": "2.100",
+        "endTime": "2.600",
+        "word": "actually"
+      },
+      {
+        "time": "2.600",
+        "endTime": "2.800",
+        "word": "good"
+      },
+      {
+        "time": "2.800",
+        "endTime": "3.500",
+        "word": "question"
+      },
+      {
+        "time": "4",
+        "endTime": "4.700",
+        "word": "because"
+      },
+      {
+        "time": "5",
+        "endTime": "5.800",
+        "word": "remember"
+      },
+      {
+        "time": "6.800",
+        "endTime": "7",
+        "word": "the"
+      },
+      {
+        "time": "7",
+        "endTime": "7.700",
+        "word": "direction"
+      },
+      {
+        "time": "7.700",
+        "endTime": "8.100",
+        "word": "that"
+      },
+      {
+        "time": "8.200",
+        "endTime": "8.400",
+        "word": "the"
+      },
+      {
+        "time": "8.400",
+        "endTime": "8.900",
+        "word": "passive"
+      },
+      {
+        "time": "8.900",
+        "endTime": "9.200",
+        "word": "sign"
+      },
+      {
+        "time": "9.200",
+        "endTime": "9.900",
+        "word": "convention"
+      },
+      {
+        "time": "9.900",
+        "endTime": "10.300",
+        "word": "that"
+      },
+      {
+        "time": "10.300",
+        "endTime": "10.800",
+        "word": "we"
+      },
+      {
+        "time": "11",
+        "endTime": "11.600",
+        "word": "had"
+      },
+      {
+        "time": "12.300",
+        "endTime": "12.400",
+        "word": "the"
+      },
+      {
+        "time": "12.400",
+        "endTime": "13",
+        "word": "direction"
+      },
+      {
+        "time": "13",
+        "endTime": "13.200",
+        "word": "that"
+      },
+      {
+        "time": "13.200",
+        "endTime": "13.400",
+        "word": "the"
+      },
+      {
+        "time": "13.400",
+        "endTime": "13.900",
+        "word": "current"
+      },
+      {
+        "time": "13.900",
+        "endTime": "14.100",
+        "word": "in",
+        "mistake": true
+      },
+      {
+        "time": "14.100",
+        "endTime": "14.800",
+        "word": "tears.",
+        "mistake": true
+      },
+      {
+        "time": "15.600",
+        "endTime": "15.700",
+        "word": "We"
+      },
+      {
+        "time": "15.700",
+        "endTime": "16.300",
+        "word": "consider"
+      },
+      {
+        "time": "16.300",
+        "endTime": "17.100",
+        "word": "positive."
+      },
+      {
+        "time": "17.400",
+        "endTime": "17.900",
+        "word": "Yeah.",
+        "mistake": true
+      },
+      {
+        "time": "18.200",
+        "endTime": "18.500",
+        "word": "Also,"
+      },
+      {
+        "time": "18.500",
+        "endTime": "18.600",
+        "word": "I"
+      },
+      {
+        "time": "18.600",
+        "endTime": "18.800",
+        "word": "meant"
+      },
+      {
+        "time": "18.800",
+        "endTime": "19.100",
+        "word": "the"
+      },
+      {
+        "time": "19.700",
+        "endTime": "20.900",
+        "word": "0.51.",
+        "mistake": true
+      },
+      {
+        "time": "22.100",
+        "endTime": "22.200",
+        "word": "The"
+      },
+      {
+        "time": "22.200",
+        "endTime": "22.300",
+        "word": "one"
+      },
+      {
+        "time": "22.300",
+        "endTime": "22.400",
+        "word": "on"
+      },
+      {
+        "time": "22.400",
+        "endTime": "22.500",
+        "word": "the"
+      },
+      {
+        "time": "22.500",
+        "endTime": "23.200",
+        "word": "right?"
+      },
+      {
+        "time": "23.300",
+        "endTime": "23.700",
+        "word": "Yeah,"
+      },
+      {
+        "time": "23.700",
+        "endTime": "24.100",
+        "word": "but"
+      },
+      {
+        "time": "24.100",
+        "endTime": "24.400",
+        "word": "let's"
+      },
+      {
+        "time": "24.400",
+        "endTime": "24.600",
+        "word": "look"
+      },
+      {
+        "time": "24.600",
+        "endTime": "24.800",
+        "word": "at"
+      },
+      {
+        "time": "24.800",
+        "endTime": "25.200",
+        "word": "that."
+      },
+      {
+        "time": "25.500",
+        "endTime": "25.600",
+        "word": "So"
+      },
+      {
+        "time": "25.600",
+        "endTime": "25.900",
+        "word": "this"
+      },
+      {
+        "time": "25.900",
+        "endTime": "26.100",
+        "word": "is"
+      },
+      {
+        "time": "26.100",
+        "endTime": "27.200",
+        "word": "positive."
+      },
+      {
+        "time": "27.300",
+        "endTime": "27.600",
+        "word": "So"
+      },
+      {
+        "time": "27.600",
+        "endTime": "28.100",
+        "word": "now"
+      },
+      {
+        "time": "28.100",
+        "endTime": "28.400",
+        "word": "if"
+      },
+      {
+        "time": "28.400",
+        "endTime": "28.500",
+        "word": "I"
+      },
+      {
+        "time": "28.500",
+        "endTime": "28.800",
+        "word": "if"
+      },
+      {
+        "time": "28.800",
+        "endTime": "29.100",
+        "word": "I"
+      },
+      {
+        "time": "29.100",
+        "endTime": "29.400",
+        "word": "if"
+      },
+      {
+        "time": "29.400",
+        "endTime": "29.500",
+        "word": "I"
+      },
+      {
+        "time": "29.500",
+        "endTime": "29.700",
+        "word": "go"
+      },
+      {
+        "time": "29.700",
+        "endTime": "30",
+        "word": "with"
+      },
+      {
+        "time": "30",
+        "endTime": "30.200",
+        "word": "this"
+      },
+      {
+        "time": "30.200",
+        "endTime": "30.900",
+        "word": "direction"
+      },
+      {
+        "time": "30.900",
+        "endTime": "31.100",
+        "word": "that"
+      },
+      {
+        "time": "31.100",
+        "endTime": "31.400",
+        "word": "means"
+      },
+      {
+        "time": "31.400",
+        "endTime": "31.600",
+        "word": "this"
+      },
+      {
+        "time": "31.600",
+        "endTime": "31.800",
+        "word": "is"
+      },
+      {
+        "time": "31.800",
+        "endTime": "32.600",
+        "word": "positive."
+      },
+      {
+        "time": "33.300",
+        "endTime": "33.600",
+        "word": "This"
+      },
+      {
+        "time": "33.600",
+        "endTime": "33.700",
+        "word": "is"
+      },
+      {
+        "time": "33.700",
+        "endTime": "34.300",
+        "word": "negative."
+      },
+      {
+        "time": "36.100",
+        "endTime": "36.600",
+        "word": "Yeah,"
+      },
+      {
+        "time": "38.300",
+        "endTime": "38.600",
+        "word": "so"
+      },
+      {
+        "time": "38.600",
+        "endTime": "38.700",
+        "word": "we"
+      },
+      {
+        "time": "38.700",
+        "endTime": "39",
+        "word": "get"
+      },
+      {
+        "time": "39",
+        "endTime": "39.600",
+        "word": "what?"
+      },
+      {
+        "time": "40.100",
+        "endTime": "40.800",
+        "word": "Okay."
+      },
+      {
+        "time": "40.800",
+        "endTime": "41",
+        "word": "Yeah,"
+      },
+      {
+        "time": "41",
+        "endTime": "41.100",
+        "word": "I"
+      },
+      {
+        "time": "41.100",
+        "endTime": "41.300",
+        "word": "see"
+      },
+      {
+        "time": "41.300",
+        "endTime": "41.600",
+        "word": "it."
+      },
+      {
+        "time": "42.300",
+        "endTime": "42.700",
+        "word": "Yeah"
+      },
+      {
+        "time": "42.800",
+        "endTime": "43",
+        "word": "get"
+      },
+      {
+        "time": "43",
+        "endTime": "43.800",
+        "word": "thrust",
+        "mistake": true
+      },
+      {
+        "time": "43.800",
+        "endTime": "43.900",
+        "word": "is",
+        "mistake": true
+      },
+      {
+        "time": "44.500",
+        "endTime": "44.800",
+        "word": "using",
+        "mistake": true
+      },
+      {
+        "time": "44.800",
+        "endTime": "44.900",
+        "word": "of"
+      },
+      {
+        "time": "44.900",
+        "endTime": "45.100",
+        "word": "like"
+      },
+      {
+        "time": "45.100",
+        "endTime": "45.300",
+        "word": "no",
+        "mistake": true
+      },
+      {
+        "time": "45.300",
+        "endTime": "45.500",
+        "word": "do",
+        "mistake": true
+      },
+      {
+        "time": "45.500",
+        "endTime": "45.600",
+        "word": "for"
+      },
+      {
+        "time": "45.600",
+        "endTime": "45.900",
+        "word": "some"
+      },
+      {
+        "time": "45.900",
+        "endTime": "46.300",
+        "word": "reason."
+      },
+      {
+        "time": "46.900",
+        "endTime": "47.300",
+        "word": "Yeah."
+      },
+      {
+        "time": "48.400",
+        "endTime": "49",
+        "word": "So"
+      },
+      {
+        "time": "49.300",
+        "endTime": "49.500",
+        "word": "so"
+      },
+      {
+        "time": "49.500",
+        "endTime": "49.900",
+        "word": "I"
+      },
+      {
+        "time": "49.900",
+        "endTime": "50.100",
+        "word": "think"
+      },
+      {
+        "time": "50.100",
+        "endTime": "50.600",
+        "word": "it"
+      },
+      {
+        "time": "50.600",
+        "endTime": "50.800",
+        "word": "is"
+      },
+      {
+        "time": "50.800",
+        "endTime": "51",
+        "word": "just"
+      },
+      {
+        "time": "51",
+        "endTime": "51.200",
+        "word": "we"
+      },
+      {
+        "time": "51.200",
+        "endTime": "51.400",
+        "word": "can"
+      },
+      {
+        "time": "51.400",
+        "endTime": "51.500",
+        "word": "go"
+      },
+      {
+        "time": "51.500",
+        "endTime": "51.800",
+        "word": "just"
+      },
+      {
+        "time": "51.800",
+        "endTime": "52.100",
+        "word": "by"
+      },
+      {
+        "time": "52.100",
+        "endTime": "52.600",
+        "word": "this"
+      },
+      {
+        "time": "52.700",
+        "endTime": "53.400",
+        "word": "direction."
+      },
+      {
+        "time": "54.800",
+        "endTime": "55.100",
+        "word": "If"
+      },
+      {
+        "time": "55.100",
+        "endTime": "55.200",
+        "word": "you"
+      },
+      {
+        "time": "55.200",
+        "endTime": "55.800",
+        "word": "reverse"
+      },
+      {
+        "time": "55.800",
+        "endTime": "56.500",
+        "word": "this"
+      },
+      {
+        "time": "57",
+        "endTime": "57.200",
+        "word": "you"
+      },
+      {
+        "time": "57.200",
+        "endTime": "57.800",
+        "word": "can"
+      },
+      {
+        "time": "58",
+        "endTime": "58.200",
+        "word": "then"
+      },
+      {
+        "time": "58.200",
+        "endTime": "58.300",
+        "word": "you"
+      },
+      {
+        "time": "58.300",
+        "endTime": "58.500",
+        "word": "have"
+      },
+      {
+        "time": "58.500",
+        "endTime": "58.700",
+        "word": "to"
+      },
+      {
+        "time": "58.700",
+        "endTime": "59.300",
+        "word": "consider"
+      },
+      {
+        "time": "59.300",
+        "endTime": "59.600",
+        "word": "that"
+      },
+      {
+        "time": "59.600",
+        "endTime": "60.200",
+        "word": "direction"
+      },
+      {
+        "time": "60.200",
+        "endTime": "61.100",
+        "word": "positive"
+      },
+      {
+        "time": "61.400",
+        "endTime": "61.700",
+        "word": "this"
+      },
+      {
+        "time": "61.700",
+        "endTime": "61.900",
+        "word": "one."
+      },
+      {
+        "time": "61.700",
+        "endTime": "61.900",
+        "word": "?",
+        "mistake": true
+      },
+      {
+        "time": "61.900",
+        "endTime": "62.300",
+        "word": "Yeah."
+      }
+    ]
+  },
+  {
+    "name": "Zoom",
+    "key": 5,
+    "text": [
+      {
+        "time": "0.500",
+        "endTime": "1",
+        "word": "Okay,"
+      },
+      {
+        "time": "2.100",
+        "endTime": "2.600",
+        "word": "actually"
+      },
+      {
+        "time": "2.600",
+        "endTime": "2.800",
+        "word": "good"
+      },
+      {
+        "time": "2.800",
+        "endTime": "3.500",
+        "word": "question"
+      },
+      {
+        "time": "4",
+        "endTime": "4.700",
+        "word": "because"
+      },
+      {
+        "time": "5",
+        "endTime": "5.800",
+        "word": "remember"
+      },
+      {
+        "time": "6.800",
+        "endTime": "7",
+        "word": "the"
+      },
+      {
+        "time": "7",
+        "endTime": "7.700",
+        "word": "direction"
+      },
+      {
+        "time": "7.700",
+        "endTime": "8.100",
+        "word": "that"
+      },
+      {
+        "time": "8.200",
+        "endTime": "8.400",
+        "word": "the"
+      },
+      {
+        "time": "8.400",
+        "endTime": "8.900",
+        "word": "passive"
+      },
+      {
+        "time": "8.900",
+        "endTime": "9.200",
+        "word": "sign"
+      },
+      {
+        "time": "9.200",
+        "endTime": "9.900",
+        "word": "convention"
+      },
+      {
+        "time": "9.900",
+        "endTime": "10.300",
+        "word": "that"
+      },
+      {
+        "time": "10.300",
+        "endTime": "10.800",
+        "word": "we"
+      },
+      {
+        "time": "11",
+        "endTime": "11.600",
+        "word": "had"
+      },
+      {
+        "time": "12.300",
+        "endTime": "12.400",
+        "word": "the"
+      },
+      {
+        "time": "12.400",
+        "endTime": "13",
+        "word": "direction"
+      },
+      {
+        "time": "13",
+        "endTime": "13.200",
+        "word": "that"
+      },
+      {
+        "time": "13.200",
+        "endTime": "13.400",
+        "word": "the"
+      },
+      {
+        "time": "13.400",
+        "endTime": "13.900",
+        "word": "current"
+      },
+      {
+        "time": "13.900",
+        "endTime": "14.100",
+        "word": "in",
+        "mistake": true
+      },
+      {
+        "time": "14.100",
+        "endTime": "14.800",
+        "word": "tears.",
+        "mistake": true
+      },
+      {
+        "time": "15.600",
+        "endTime": "15.700",
+        "word": "We"
+      },
+      {
+        "time": "15.700",
+        "endTime": "16.300",
+        "word": "consider"
+      },
+      {
+        "time": "16.300",
+        "endTime": "17.100",
+        "word": "positive."
+      },
+      {
+        "time": "17.400",
+        "endTime": "17.900",
+        "word": "Yeah."
+      },
+      {
+        "time": "18.200",
+        "endTime": "18.500",
+        "word": "Also,"
+      },
+      {
+        "time": "18.500",
+        "endTime": "18.600",
+        "word": "I"
+      },
+      {
+        "time": "18.600",
+        "endTime": "18.800",
+        "word": "meant"
+      },
+      {
+        "time": "18.800",
+        "endTime": "19.100",
+        "word": "the"
+      },
+      {
+        "time": "19.700",
+        "endTime": "20.900",
+        "word": "0.51.",
+        "mistake": true
+      },
+      {
+        "time": "22.100",
+        "endTime": "22.200",
+        "word": "The"
+      },
+      {
+        "time": "22.200",
+        "endTime": "22.300",
+        "word": "one"
+      },
+      {
+        "time": "22.300",
+        "endTime": "22.400",
+        "word": "on"
+      },
+      {
+        "time": "22.400",
+        "endTime": "22.500",
+        "word": "the"
+      },
+      {
+        "time": "22.500",
+        "endTime": "23.200",
+        "word": "right?"
+      },
+      {
+        "time": "23.300",
+        "endTime": "23.700",
+        "word": "Yeah,"
+      },
+      {
+        "time": "23.700",
+        "endTime": "24.100",
+        "word": "but"
+      },
+      {
+        "time": "24.100",
+        "endTime": "24.400",
+        "word": "let's"
+      },
+      {
+        "time": "24.400",
+        "endTime": "24.600",
+        "word": "look"
+      },
+      {
+        "time": "24.600",
+        "endTime": "24.800",
+        "word": "at"
+      },
+      {
+        "time": "24.800",
+        "endTime": "25.200",
+        "word": "that."
+      },
+      {
+        "time": "25.500",
+        "endTime": "25.600",
+        "word": "So"
+      },
+      {
+        "time": "25.600",
+        "endTime": "25.900",
+        "word": "this"
+      },
+      {
+        "time": "25.900",
+        "endTime": "26.100",
+        "word": "is"
+      },
+      {
+        "time": "26.100",
+        "endTime": "27.200",
+        "word": "positive."
+      },
+      {
+        "time": "27.300",
+        "endTime": "27.600",
+        "word": "So"
+      },
+      {
+        "time": "27.600",
+        "endTime": "28.100",
+        "word": "now"
+      },
+      {
+        "time": "28.100",
+        "endTime": "28.400",
+        "word": "if"
+      },
+      {
+        "time": "28.400",
+        "endTime": "28.500",
+        "word": "I"
+      },
+      {
+        "time": "28.500",
+        "endTime": "28.800",
+        "word": "if"
+      },
+      {
+        "time": "28.800",
+        "endTime": "29.100",
+        "word": "I"
+      },
+      {
+        "time": "29.100",
+        "endTime": "29.400",
+        "word": "if"
+      },
+      {
+        "time": "29.400",
+        "endTime": "29.500",
+        "word": "I"
+      },
+      {
+        "time": "29.500",
+        "endTime": "29.700",
+        "word": "go"
+      },
+      {
+        "time": "29.700",
+        "endTime": "30",
+        "word": "with"
+      },
+      {
+        "time": "30",
+        "endTime": "30.200",
+        "word": "this"
+      },
+      {
+        "time": "30.200",
+        "endTime": "30.900",
+        "word": "direction"
+      },
+      {
+        "time": "30.900",
+        "endTime": "31.100",
+        "word": "that"
+      },
+      {
+        "time": "31.100",
+        "endTime": "31.400",
+        "word": "means"
+      },
+      {
+        "time": "31.400",
+        "endTime": "31.600",
+        "word": "this"
+      },
+      {
+        "time": "31.600",
+        "endTime": "31.800",
+        "word": "is"
+      },
+      {
+        "time": "31.800",
+        "endTime": "32.600",
+        "word": "positive."
+      },
+      {
+        "time": "33.300",
+        "endTime": "33.600",
+        "word": "This"
+      },
+      {
+        "time": "33.600",
+        "endTime": "33.700",
+        "word": "is"
+      },
+      {
+        "time": "33.700",
+        "endTime": "34.300",
+        "word": "negative."
+      },
+      {
+        "time": "36.100",
+        "endTime": "36.600",
+        "word": "Yeah,"
+      },
+      {
+        "time": "38.300",
+        "endTime": "38.600",
+        "word": "so"
+      },
+      {
+        "time": "38.600",
+        "endTime": "38.700",
+        "word": "we"
+      },
+      {
+        "time": "38.700",
+        "endTime": "39",
+        "word": "get"
+      },
+      {
+        "time": "39",
+        "endTime": "39.600",
+        "word": "what?"
+      },
+      {
+        "time": "40.100",
+        "endTime": "40.800",
+        "word": "Okay."
+      },
+      {
+        "time": "40.800",
+        "endTime": "41",
+        "word": "Yeah,"
+      },
+      {
+        "time": "41",
+        "endTime": "41.100",
+        "word": "I"
+      },
+      {
+        "time": "41.100",
+        "endTime": "41.300",
+        "word": "see"
+      },
+      {
+        "time": "41.300",
+        "endTime": "41.600",
+        "word": "it."
+      },
+      {
+        "time": "42.300",
+        "endTime": "42.700",
+        "word": "Yeah"
+      },
+      {
+        "time": "42.800",
+        "endTime": "43",
+        "word": "get"
+      },
+      {
+        "time": "43",
+        "endTime": "43.800",
+        "word": "thrust",
+        "mistake": true
+      },
+      {
+        "time": "43.800",
+        "endTime": "43.900",
+        "word": "is",
+        "mistake": true
+      },
+      {
+        "time": "44.500",
+        "endTime": "44.800",
+        "word": "using",
+        "mistake": true
+      },
+      {
+        "time": "44.800",
+        "endTime": "44.900",
+        "word": "of"
+      },
+      {
+        "time": "44.900",
+        "endTime": "45.100",
+        "word": "like"
+      },
+      {
+        "time": "45.100",
+        "endTime": "45.300",
+        "word": "no"
+      },
+      {
+        "time": "45.300",
+        "endTime": "45.500",
+        "word": "do"
+      },
+      {
+        "time": "45.500",
+        "endTime": "45.600",
+        "word": "for"
+      },
+      {
+        "time": "45.600",
+        "endTime": "45.900",
+        "word": "some"
+      },
+      {
+        "time": "45.900",
+        "endTime": "46.300",
+        "word": "reason."
+      },
+      {
+        "time": "46.900",
+        "endTime": "47.300",
+        "word": "Yeah."
+      },
+      {
+        "time": "48.400",
+        "endTime": "49",
+        "word": "So"
+      },
+      {
+        "time": "49.300",
+        "endTime": "49.500",
+        "word": "so"
+      },
+      {
+        "time": "49.500",
+        "endTime": "49.900",
+        "word": "I"
+      },
+      {
+        "time": "49.900",
+        "endTime": "50.100",
+        "word": "think"
+      },
+      {
+        "time": "50.100",
+        "endTime": "50.600",
+        "word": "it"
+      },
+      {
+        "time": "50.600",
+        "endTime": "50.800",
+        "word": "is"
+      },
+      {
+        "time": "50.800",
+        "endTime": "51",
+        "word": "just"
+      },
+      {
+        "time": "51",
+        "endTime": "51.200",
+        "word": "we"
+      },
+      {
+        "time": "51.200",
+        "endTime": "51.400",
+        "word": "can"
+      },
+      {
+        "time": "51.400",
+        "endTime": "51.500",
+        "word": "go",
+        "mistake": true
+      },
+      {
+        "time": "51.500",
+        "endTime": "51.800",
+        "word": "just"
+      },
+      {
+        "time": "51.800",
+        "endTime": "52.100",
+        "word": "by"
+      },
+      {
+        "time": "52.100",
+        "endTime": "52.600",
+        "word": "this"
+      },
+      {
+        "time": "52.700",
+        "endTime": "53.400",
+        "word": "direction."
+      },
+      {
+        "time": "54.800",
+        "endTime": "55.100",
+        "word": "If"
+      },
+      {
+        "time": "55.100",
+        "endTime": "55.200",
+        "word": "you"
+      },
+      {
+        "time": "55.200",
+        "endTime": "55.800",
+        "word": "reverse",
+        "mistake": true
+      },
+      {
+        "time": "55.800",
+        "endTime": "56.500",
+        "word": "this"
+      },
+      {
+        "time": "57",
+        "endTime": "57.200",
+        "word": "you"
+      },
+      {
+        "time": "57.200",
+        "endTime": "57.800",
+        "word": "can"
+      },
+      {
+        "time": "58",
+        "endTime": "58.200",
+        "word": "then"
+      },
+      {
+        "time": "58.200",
+        "endTime": "58.300",
+        "word": "you"
+      },
+      {
+        "time": "58.300",
+        "endTime": "58.500",
+        "word": "have"
+      },
+      {
+        "time": "58.500",
+        "endTime": "58.700",
+        "word": "to"
+      },
+      {
+        "time": "58.700",
+        "endTime": "59.300",
+        "word": "consider"
+      },
+      {
+        "time": "59.300",
+        "endTime": "59.600",
+        "word": "that"
+      },
+      {
+        "time": "59.600",
+        "endTime": "60.200",
+        "word": "direction"
+      },
+      {
+        "time": "60.200",
+        "endTime": "61.100",
+        "word": "positive"
+      },
+      {
+        "time": "61.400",
+        "endTime": "61.700",
+        "word": "this"
+      },
+      {
+        "time": "61.700",
+        "endTime": "61.900",
+        "word": "one."
+      },
+      {
+        "time": "61.700",
+        "endTime": "61.900",
+        "word": "?"
+      },
+      {
+        "time": "61.900",
+        "endTime": "62.300",
+        "word": "Yeah."
+      }
+    ]
+  }
+]
