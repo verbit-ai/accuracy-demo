@@ -32,7 +32,7 @@ commands:
             apt install -y --no-install-recommends awscli
             npm install
             npm run build
-            aws s3 sync ./public << parameters.client_bucket >> --delete
+            aws s3 sync ./build << parameters.client_bucket >> --delete
 
 executors:
   deployer:
