@@ -72,8 +72,7 @@ export const Paragraph = styled.div`
   line-height: 35px;
   color: #10264a;
   padding: ${prop("padding", "0")};
-  overflow-y: scroll;
-  overflow-x: auto;
+  overflow: auto;
   height: 100%;
   max-width: 400px;
 `;
