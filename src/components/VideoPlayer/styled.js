@@ -1,6 +1,20 @@
 import styled from "styled-components"
 import { withStyles } from '@material-ui/core/styles'
 import Slider from '@material-ui/core/Slider'
+import PlayImg from '../../Videos/PlayButton.png'
+
+export const VideoContainer = styled.div`
+  height: 156px;
+  width: 270px;
+`;
+
+export const PlayButton = styled.div`
+background-image: url(${PlayImg});
+background-repeat: no-repeat;
+background-position-x: center;
+width: 100%;
+height: 100%;
+`;
 
 export const ControlsWrapper = styled.div`
     color: #FFC558;

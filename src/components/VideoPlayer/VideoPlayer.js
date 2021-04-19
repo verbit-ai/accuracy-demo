@@ -1,9 +1,11 @@
 import { React, useRef, useState } from "react";
 import ReactPlayer from "react-player";
 import video from "../../Videos/Sample.mp4";
-import { ControlsWrapper, PrettoSlider, TimeElapsed } from "./styled";
+import { VideoContainer, PlayButton, ControlsWrapper, PrettoSlider, TimeElapsed } from "./styled";
 import PlayArrowIcon from "@material-ui/icons/PlayArrow";
 import PauseIcon from "@material-ui/icons/Pause";
+import Thumbnail from "../../Videos/Thumbnail.png"
+
 
   /** Player Component **/
 
@@ -77,17 +79,20 @@ function VideoPlayer({ currentTime, setCurrentTime }) {
 
   return (
     <>
+    <VideoContainer>
       <ReactPlayer
         url={video}
         width="100%"
-        height=""
+        height="100%"
         playing={playing}
         onProgress={handleProgress}
         played={played}
         ref={playerRef}
-        light={true}    
+        light={ Thumbnail }
+        playIcon={ <PlayButton onClick={handlePlayPause}></PlayButton> }
         progressInterval={1000/60}
         />
+        </VideoContainer>
       <PrettoSlider
         min={0}
         max={100}

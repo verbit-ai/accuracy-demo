@@ -163,7 +163,12 @@
       {
         "time": "19.700",
         "endTime": "20.900",
-        "word": "0.51."
+        "word": "0.5"
+      },
+      {
+        "time": "19.850",
+        "endTime": "20.900",
+        "word": "one."
       },
       {
         "time": "22.100",
@@ -396,6 +401,11 @@
         "word": "Yeah"
       },
       {
+        "time": "42.700",
+        "endTime": "43",
+        "word": "we"
+      },
+      {
         "time": "42.800",
         "endTime": "43",
         "word": "get"
@@ -403,18 +413,32 @@
       {
         "time": "43",
         "endTime": "43.800",
-        "word": "thrust"
+        "word": "plus"
       },
       {
         "time": "43.800",
         "endTime": "43.900",
-        "word": "is"
+        "word": "is."
+      },
+      {
+        "time": "43.900",
+        "endTime": "43.900",
+        "word": "Yeah"
+      },
+      {
+        "time": "44.000",
+        "endTime": "43.900",
+        "word": "I"
+      },
+      {
+        "time": "44.100",
+        "endTime": "43.900",
+        "word": "was"
       },
       {
         "time": "44.500",
         "endTime": "44.800",
-        "word": "using",
-        "mistake": true
+        "word": "thinking"
       },
       {
         "time": "44.800",
@@ -429,14 +453,7 @@
       {
         "time": "45.100",
         "endTime": "45.300",
-        "word": "no",
-        "mistake": true
-      },
-      {
-        "time": "45.300",
-        "endTime": "45.500",
-        "word": "do",
-        "mistake": true
+        "word": "Nodle"
       },
       {
         "time": "45.500",
@@ -606,13 +623,12 @@
       {
         "time": "61.700",
         "endTime": "61.900",
-        "word": "one."
+        "word": "one"
       },
       {
-        "time": "61.700",
+        "time": "61.800",
         "endTime": "61.900",
-        "word": "?",
-        "mistake": true
+        "word": "negative."
       },
       {
         "time": "61.900",
@@ -733,13 +749,7 @@
       {
         "time": "13.900",
         "endTime": "14.100",
-        "word": "in",
-        "mistake": true
-      },
-      {
-        "time": "14.100",
-        "endTime": "14.800",
-        "word": "tears.",
+        "word": "enters",
         "mistake": true
       },
       {
@@ -869,12 +879,6 @@
         "word": "So"
       },
       {
-        "time": "27.500",
-        "endTime": "27.600",
-        "word": "...",
-        "mistake": true
-      },
-      {
         "time": "27.600",
         "endTime": "28.100",
         "word": "now"
@@ -1027,19 +1031,17 @@
       {
         "time": "42.800",
         "endTime": "43",
-        "word": "get"
+        "word": " get"
       },
       {
         "time": "43",
         "endTime": "43.800",
-        "word": "thrust",
-        "mistake": true
+        "word": "plus"
       },
       {
         "time": "43.800",
         "endTime": "43.900",
-        "word": "is",
-        "mistake": true
+        "word": "is"
       },
       {
         "time": "44.500",
@@ -1182,12 +1184,14 @@
       {
         "time": "57",
         "endTime": "57.200",
-        "word": "you"
+        "word": "we",
+        "mistake": true
       },
       {
         "time": "57.200",
         "endTime": "57.800",
-        "word": "can"
+        "word": "care",
+        "mistake": true
       },
       {
         "time": "58",
@@ -1237,12 +1241,12 @@
       {
         "time": "61.700",
         "endTime": "61.900",
-        "word": "one."
+        "word": "one"
       },
       {
-        "time": "61.700",
+        "time": "61.800",
         "endTime": "61.900",
-        "word": "?",
+        "word": "...",
         "mistake": true
       },
       {
@@ -1455,12 +1459,6 @@
         "word": "but"
       },
       {
-        "time": "23.900",
-        "endTime": "24.100",
-        "word": "...",
-        "mistake": true
-      },
-      {
         "time": "24.100",
         "endTime": "24.400",
         "word": "let's"
@@ -1673,12 +1671,6 @@
         "mistake": true
       },
       {
-        "time": "43.800",
-        "endTime": "43.900",
-        "word": "...",
-        "mistake": true
-      },
-      {
         "time": "44.500",
         "endTime": "44.800",
         "word": "using",
@@ -1769,8 +1761,7 @@
       {
         "time": "51.200",
         "endTime": "51.400",
-        "word": "can",
-        "mistake": true
+        "word": "can"
       },
       {
         "time": "51.400",
@@ -1825,7 +1816,8 @@
       {
         "time": "57.200",
         "endTime": "57.800",
-        "word": "can"
+        "word": "care",
+        "mistake": true
       },
       {
         "time": "58",
@@ -1875,12 +1867,12 @@
       {
         "time": "61.700",
         "endTime": "61.900",
-        "word": "one."
+        "word": "one"
       },
       {
-        "time": "61.700",
+        "time": "61.800",
         "endTime": "61.900",
-        "word": "?",
+        "word": "...",
         "mistake": true
       },
       {
@@ -2029,8 +2021,7 @@
       {
         "time": "17.400",
         "endTime": "17.900",
-        "word": "Yeah.",
-        "mistake": true
+        "word": "Yeah."
       },
       {
         "time": "18.200",
@@ -2219,12 +2210,6 @@
         "word": "positive."
       },
       {
-        "time": "32.000",
-        "endTime": "32.600",
-        "word": "...",
-        "mistake": true
-      },
-      {
         "time": "33.300",
         "endTime": "33.600",
         "word": "This"
@@ -2452,12 +2437,14 @@
       {
         "time": "57",
         "endTime": "57.200",
-        "word": "you"
+        "word": "we",
+        "mistake": true
       },
       {
         "time": "57.200",
         "endTime": "57.800",
-        "word": "can"
+        "word": "care",
+        "mistake": true
       },
       {
         "time": "58",
@@ -2507,12 +2494,12 @@
       {
         "time": "61.700",
         "endTime": "61.900",
-        "word": "one."
+        "word": "one"
       },
       {
-        "time": "61.700",
+        "time": "61.800",
         "endTime": "61.900",
-        "word": "?",
+        "word": "...",
         "mistake": true
       },
       {
@@ -2955,12 +2942,14 @@
       {
         "time": "45.100",
         "endTime": "45.300",
-        "word": "no"
+        "word": "no",
+        "mistake": true
       },
       {
         "time": "45.300",
         "endTime": "45.500",
-        "word": "do"
+        "word": "do",
+        "mistake": true
       },
       {
         "time": "45.500",
@@ -3030,8 +3019,7 @@
       {
         "time": "51.400",
         "endTime": "51.500",
-        "word": "go",
-        "mistake": true
+        "word": "go"      
       },
       {
         "time": "51.500",
@@ -3066,9 +3054,7 @@
       {
         "time": "55.200",
         "endTime": "55.800",
-        "word": "reverse",
-        "mistake": true
-      },
+        "word": "reverse"      },
       {
         "time": "55.800",
         "endTime": "56.500",
@@ -3082,7 +3068,8 @@
       {
         "time": "57.200",
         "endTime": "57.800",
-        "word": "can"
+        "word": "care",
+        "mistake": true
       },
       {
         "time": "58",
@@ -3135,9 +3122,10 @@
         "word": "one."
       },
       {
-        "time": "61.700",
+        "time": "61.800",
         "endTime": "61.900",
-        "word": "?"
+        "word": "...",
+        "mistake": true
       },
       {
         "time": "61.900",
