@@ -1,14 +1,14 @@
 import styled, { keyframes } from "styled-components";
 import { prop } from "styled-tools";
 
-const clipAnimation = keyframes`
-from {
-		clip-path: inset(0 100% 0 0);
-	}
-	to {
-		clip-path: inset(0 0 0 0);
-	}
-`;
+// const clipAnimation = keyframes`
+// from {
+// 		clip-path: inset(0 100% 0 0);
+// 	}
+// 	to {
+// 		clip-path: inset(0 0 0 0);
+// 	}
+// `;
 
 const fadeIn = keyframes`
   0%   { opacity: 0; }
@@ -72,16 +72,17 @@ export const Paragraph = styled.div`
   line-height: 35px;
   color: #10264a;
   padding: ${prop("padding", "0")};
-  overflow: scroll;
+  overflow-y: scroll;
+  overflow-x: auto;
   height: 100%;
   max-width: 400px;
 `;
 
-export const Span = styled.span`
-  animation-name: ${clipAnimation};
-  animation-duration: 0.5s;
-  animation-iteration-count: 1;
-`;
+// export const Span = styled.span`
+//   animation-name: ${clipAnimation};
+//   animation-duration: 0.5s;
+//   animation-iteration-count: 1;
+// `;
 
 export const Footer = styled.div`
   display: flex;

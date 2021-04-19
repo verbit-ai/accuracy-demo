@@ -85,7 +85,7 @@ function VideoPlayer({ currentTime, setCurrentTime }) {
         onProgress={handleProgress}
         played={played}
         ref={playerRef}
-        light=""    
+        light={true}    
         progressInterval={1000/60}
         />
       <PrettoSlider

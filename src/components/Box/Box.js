@@ -11,7 +11,6 @@ import {
   Mistakes,
   MistakesNum,
   Mistake,
-  Span,
   Footer,
 } from "./styled";
 import { useRef, useEffect } from "react";
@@ -53,11 +52,9 @@ function Box({ title, content, currentTime }) {
                 wordsDisplayed++;
                 if (mistake) mistakesCount++;
                 return mistake ? (
-                  <Span key={time}>
                     <Mistake>{word} </Mistake>
-                  </Span>
                 ) : (
-                  <Span key={time}>{word} </Span>
+                  <span key={time}>{word} </span>
                 );
               })}
             <div ref={bottomRef}></div>

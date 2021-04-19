@@ -869,6 +869,12 @@
         "word": "So"
       },
       {
+        "time": "27.500",
+        "endTime": "27.600",
+        "word": "...",
+        "mistake": true
+      },
+      {
         "time": "27.600",
         "endTime": "28.100",
         "word": "now"
@@ -1449,6 +1455,12 @@
         "word": "but"
       },
       {
+        "time": "23.900",
+        "endTime": "24.100",
+        "word": "...",
+        "mistake": true
+      },
+      {
         "time": "24.100",
         "endTime": "24.400",
         "word": "let's"
@@ -1658,6 +1670,12 @@
         "time": "43.800",
         "endTime": "43.900",
         "word": "is",
+        "mistake": true
+      },
+      {
+        "time": "43.800",
+        "endTime": "43.900",
+        "word": "...",
         "mistake": true
       },
       {
@@ -2199,6 +2217,12 @@
         "time": "31.800",
         "endTime": "32.600",
         "word": "positive."
+      },
+      {
+        "time": "32.000",
+        "endTime": "32.600",
+        "word": "...",
+        "mistake": true
       },
       {
         "time": "33.300",
