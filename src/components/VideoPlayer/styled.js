@@ -5,7 +5,7 @@ import PlayImg from '../../Videos/PlayButton.png'
 
 export const VideoContainer = styled.div`
   height: 156px;
-  width: 270px;
+  width: 100%;
 `;
 
 export const PlayButton = styled.div`
